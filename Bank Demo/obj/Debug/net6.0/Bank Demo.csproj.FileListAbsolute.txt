@@ -1,0 +1,15 @@
+J:\Users\Hunter\Desktop\Bank Demo\obj\Debug\net6.0\Bank Demo.csproj.AssemblyReference.cache
+J:\Users\Hunter\Desktop\Bank Demo\obj\Debug\net6.0\Bank Demo.GeneratedMSBuildEditorConfig.editorconfig
+J:\Users\Hunter\Desktop\Bank Demo\obj\Debug\net6.0\Bank Demo.AssemblyInfoInputs.cache
+J:\Users\Hunter\Desktop\Bank Demo\obj\Debug\net6.0\Bank Demo.AssemblyInfo.cs
+J:\Users\Hunter\Desktop\Bank Demo\obj\Debug\net6.0\Bank Demo.csproj.CoreCompileInputs.cache
+J:\Users\Hunter\Desktop\Bank Demo\bin\Debug\net6.0\Bank Demo.exe
+J:\Users\Hunter\Desktop\Bank Demo\bin\Debug\net6.0\Bank Demo.deps.json
+J:\Users\Hunter\Desktop\Bank Demo\bin\Debug\net6.0\Bank Demo.runtimeconfig.json
+J:\Users\Hunter\Desktop\Bank Demo\bin\Debug\net6.0\Bank Demo.dll
+J:\Users\Hunter\Desktop\Bank Demo\bin\Debug\net6.0\ref\Bank Demo.dll
+J:\Users\Hunter\Desktop\Bank Demo\bin\Debug\net6.0\Bank Demo.pdb
+J:\Users\Hunter\Desktop\Bank Demo\obj\Debug\net6.0\Bank Demo.dll
+J:\Users\Hunter\Desktop\Bank Demo\obj\Debug\net6.0\ref\Bank Demo.dll
+J:\Users\Hunter\Desktop\Bank Demo\obj\Debug\net6.0\Bank Demo.pdb
+J:\Users\Hunter\Desktop\Bank Demo\obj\Debug\net6.0\Bank Demo.genruntimeconfig.cache
